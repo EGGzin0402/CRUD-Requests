@@ -1,0 +1,16 @@
+{
+    "name": "eggzin/crudpostman",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eliel Godoy",
+            "email": "eliel.a.m.godoy@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
